@@ -23,8 +23,8 @@
 
 * A to B
 
-  []()
+  [](https://github.com/Kimyuhwanpeter/TF-2.3.0_Attention_GAN/blob/main/figure1.png)
 
 * B to A
 
-  []()
+  [](https://github.com/Kimyuhwanpeter/TF-2.3.0_Attention_GAN/blob/main/figure2.png)
