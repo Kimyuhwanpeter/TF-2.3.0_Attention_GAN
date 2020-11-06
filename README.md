@@ -1,4 +1,4 @@
-# Tensorflow 2.3.0 - Attention based CycleGAN
+# Tensorflow 2.3.0 - UACycleGAN
 
 ## Baseline
 
